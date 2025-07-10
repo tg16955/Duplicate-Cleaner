@@ -1,0 +1,9 @@
+2025-07-10 15:20:04,745 - INFO - Duplicate Cleaner started
+2025-07-10 15:20:18,949 - INFO - Found 7 files to process
+2025-07-10 15:20:18,987 - INFO - Found exact image duplicate group: 2 files
+2025-07-10 15:20:18,989 - INFO - Found exact image duplicate group: 2 files
+2025-07-10 15:20:19,815 - INFO - Found similar image group: 2 files (similarity: 1.00)
+2025-07-10 15:20:19,818 - INFO - Found similar image group: 2 files (similarity: 1.00)
+2025-07-10 15:21:48,902 - INFO - Deleted: C:\Users\lion\OneDrive\Desktop\photoduplicate\download3.jpeg
+2025-07-10 15:21:50,610 - WARNING - Could not get info for C:\Users\lion\OneDrive\Desktop\photoduplicate\download3.jpeg: [WinError 2] The system cannot find the file specified: 'C:\\Users\\lion\\OneDrive\\Desktop\\photoduplicate\\download3.jpeg'
+2025-07-10 15:21:50,612 - WARNING - Could not get info for C:\Users\lion\OneDrive\Desktop\photoduplicate\download3.jpeg: [WinError 2] The system cannot find the file specified: 'C:\\Users\\lion\\OneDrive\\Desktop\\photoduplicate\\download3.jpeg'
